@@ -14,7 +14,7 @@ modify the trajectory in Trajectory.py then run either:
 
 To watch the drone respond to simple keyboard inputs run:
 
-I-nteractive_Robo_Animate.py
+-Interactive_Robo_Animate.py
 
 Modify the drone parameters and controller gains in:
 
