@@ -19,5 +19,3 @@ To watch the drone respond to simple keyboard inputs run:
 Modify the drone parameters and controller gains in:
 
 Parameters.py
-
-# Adding a line
