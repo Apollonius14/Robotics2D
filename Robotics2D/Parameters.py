@@ -13,6 +13,6 @@ def get_params():
         controller_gains = {"kyp":29*0.8,"kyd":0.8*0.6*27,
                       "kzp":200,"kzd":2*200*0.05,
                       "kPhip":0.55,
-                      "kPhid":0.0001}
+                      "kPhid":0}
 
         return robo_params, controller_gains
